@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xml:lang="en">
+  <channel>
+    <title>PKGSmith Updates</title>
+    <link>https://fogh.github.io/pkg-updates</link>
+    <description>Updates for PKGSmith</description>
+
+    <item>
+      <title>Version 1.0.0</title>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://fogh.github.io/pkg-updates/sparkle/release-notes/1.0.0.html</sparkle:releaseNotesLink>
+      <pubDate>Sun, 01 Mar 2026 19:48:51 +0000</pubDate>
+      <enclosure url="https://fogh.github.io/pkg-updates/sparkle/PKGSmith-macOS-1.0.0.zip" type="application/octet-stream" length="4189683" sparkle:edSignature="X/D/mMz+gyYDChCQCoaGMjMVp1y7A/nhXFLWBBZr0PSsD66ucEJ6gfBCy859SWI3mPiIIeGDx4GV+DAbk48eAA==" />
+    </item>
+  </channel>
+</rss>
