@@ -8,12 +8,12 @@
     <description>Updates for PKGSmith</description>
 
     <item>
-      <title>Version 1.0.3</title>
-      <sparkle:version>1.0.3</sparkle:version>
-      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-      <sparkle:releaseNotesLink>https://fogh.github.io/pkg-updates/sparkle/release-notes/1.0.3.html</sparkle:releaseNotesLink>
-      <pubDate>Fri, 06 Mar 2026 11:42:38 +0000</pubDate>
-      <enclosure url="https://fogh.github.io/pkg-updates/sparkle/PKGSmith-macOS-1.0.3.zip" type="application/octet-stream" length="3970625" sparkle:edSignature="jpRxGJxLWMjFNjqCAMsyokBro9OgVU26RpS95WfsiNRRkV4lJ5ZefxNYbvJrROGt3LpwKVa2KM4pi7YPHJHVBw==" />
+      <title>Version 1.0.4</title>
+      <sparkle:version>1.0.4</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <sparkle:releaseNotesLink>https://fogh.github.io/pkg-updates/sparkle/release-notes/1.0.4.html</sparkle:releaseNotesLink>
+      <pubDate>Mon, 09 Mar 2026 14:04:36 +0000</pubDate>
+      <enclosure url="https://fogh.github.io/pkg-updates/sparkle/PKGSmith-macOS-1.0.4.zip" type="application/octet-stream" length="4058427" sparkle:edSignature="lnjn00m8h/wF8YiYUvL0b6mv0fo0EqpkMHMhZ3HOhXyfKnphG/KCUgfBdqMFhAAHsADe1IL46aH4TmfpEkQ0AA==" />
     </item>
   </channel>
 </rss>
