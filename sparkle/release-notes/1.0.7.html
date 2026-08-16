@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>PKGSmith 1.0.7 Release Notes</title>
+<style>body{font-family:-apple-system,BlinkMacSystemFont,system-ui,Segoe UI,Helvetica,Arial,sans-serif;margin:20px;line-height:1.4}h2,h3,h4{margin:16px 0 8px}ul{margin:8px 0 12px 22px}code{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}</style>
+</head>
+<body>
+<h2>PKGSmith 1.0.7 Release Notes</h2>
+<h3>Changed</h3>
+<ul>
+<li>Updated Homebrew cask generation for current Homebrew releases and added style validation before publishing.</li>
+<li>Updated Sparkle to 2.9.5, AcknowList to 3.4.3, and Sentry Cocoa to 9.26.0.</li>
+<li>Removed the obsolete admin-password project setting; older project files remain compatible.</li>
+</ul>
+<h3>Fixed</h3>
+<ul>
+<li>Fixed PKG rebuilds so stale signed artifacts cannot be reported as a successful new build.</li>
+<li>Fixed Installer background metadata and ensured PKG installers update the app in `/Applications` instead of relocating another copy.</li>
+<li>Added validation for unsafe payload destinations and reliable temporary build cleanup.</li>
+</ul>
+</body>
+</html>
